@@ -9,3 +9,4 @@ air init
 air
 ```
 * jreng jreng setiap kali ada perubahan langsung reload
+* folder tmp terbuat otomatis oleh air-verse
